@@ -1,4 +1,5 @@
 // Questão 3 inversor de números, o código tem como objetivo inverter um número inteiro, ou seja, transformar 123 em 321. mas é um bom começo para entender o funcionamento da função inversor.
+//O codigo tem limitação de 9 digitos, ou seja, o maior número que pode ser invertido é 999999999, caso contrário o código não funcionará corretamente.
 #include <stdio.h>
 #include <locale.h>
 
